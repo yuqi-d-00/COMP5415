@@ -5,7 +5,7 @@ from pathlib import Path
 from PIL import Image
 import io
 
-st.set_page_config(page_title="Sharing the beauty of Traditional Chinese gardens.", page_icon="✨", layout="wide")
+st.set_page_config(page_title="Sharing the beauty of Traditional Chinese gardens.", layout="wide")
 
 # This is the final version webpage for COMP5415 Multimedia Design and Authorising
 
