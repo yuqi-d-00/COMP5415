@@ -264,7 +264,7 @@ with col6:
     st.markdown("""
     <div class="section-card">
         <h3 class="section-title">Dependencies</h3>
-        <p class="section-description">Make sure you got the project folder and do not modify the file structure, install streamlit and run the web.py file by terminal.</p>
+        <p class="section-description">Make sure you got the project folder and do not modify the file structure.</p>
     </div>
     """, unsafe_allow_html=True)
 
