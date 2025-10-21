@@ -7,7 +7,7 @@ import io
 
 st.set_page_config(page_title="Sharing the beauty of Traditional Chinese gardens.", layout="wide")
 
-# This is the final version webpage for COMP5415 Multimedia Design and Authorising
+# This is the final version webpage for COMP5415 Multimedia Design and Authoring
 
 
 # Image loading helper
